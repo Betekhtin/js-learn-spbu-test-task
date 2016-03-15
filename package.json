@@ -1,7 +1,13 @@
 {
   "name": "WeatherApp",
   "version": "1.0.0",
+  "description": "NodeJS server for js-learn-spbu project",
   "dependencies": {
     "weather-js": "1.0.2"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Betekhtin/js-learn-spbu-test-task"
   }
 }
+
